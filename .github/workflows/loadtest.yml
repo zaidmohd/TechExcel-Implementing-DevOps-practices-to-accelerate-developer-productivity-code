@@ -8,7 +8,7 @@ on:
 
 env:
   AZURE_WEBAPP_NAME: "s3gjildtcyuuq-dev"    # set this to your application's name
-  LOAD_TEST_RESOURCE: "loadtest"   # set this to your Azure Load Test resource's name
+  LOAD_TEST_RESOURCE: "zmloadtest"   # set this to your Azure Load Test resource's name
   LOAD_TEST_RESOURCE_GROUP: "rg-devops" # set this to the resource group you've used for this training
 
 jobs:
